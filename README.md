@@ -1,4 +1,4 @@
-####SQL Knowledge Assignment:
+#### SQL Knowledge Assignment:
 given a users table of the form - id, group_id
 
 
@@ -14,7 +14,7 @@ insert into users (group_id) values (1), (1), (1), (2), (1), (3);
         2 count the number of records in each group
         3 calculate the minimum record ID in the group
 
-####Solution:
+#### Solution:
 
 ##### 1.Preparations
 
@@ -340,6 +340,7 @@ I'm not sure we should use
 
 
 Links:
+
     https://www.postgresql.org/docs/9.3/datatype-numeric.html
     https://dba.stackexchange.com/questions/188093/why-is-postgres-cte-slower-than-subquery
     https://www.postgresqltutorial.com/postgresql-count-function/
