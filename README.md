@@ -336,7 +336,6 @@ It takes same 8 bytes but we don't use negative numbers for foreign keys.
     bigserial        8 bytes        large autoincrementing integer        1 to 9223372036854775807
     bigint        8 bytes        large-range integer        -9223372036854775808 to 9223372036854775807
 
-I'm not sure we should use 
 
 
 Links:
